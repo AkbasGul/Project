@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+
+body{
+    background-image: url(./background_image.jpg);
+
+}
+
+
+/* #container
+{
+    background-color: rgba(0, 0, 0, 0.892);
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    padding: 20px;
+
+
+
+
+} */
+
+
+
+
+
+
+
+
+
+
+.main{
+    background-color: rgba(0, 0, 0, 0.336);
+    width: 95%;
+    height: 900px;
+   margin: 20px auto;
+
+
+
+
+
+}
+
+h1{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Lemon', serif;
+
+}
+.main span{
+    color: red;
+    font-weight: 1500;
+
+
+}
+
+h3{
+    text-align: center;
+    font-size: small;
+
+}
+#container{
+    width: 25%;
+    height: 800px;
+    margin: 15px auto;
+    background-color: rgba(0, 0, 0, 0.712);
+    padding: 15px 20px 5px 20px;
+
+
+}
+
+
+#name1, #name2, #name3, #name4, #name5, #name6, #name7{
+
+    margin-bottom: 13px;
+
+    
+
+} 
+
+#name1 input{
+
+    margin-top: 5px;
+
+
+}
+
